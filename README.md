@@ -9,7 +9,7 @@ La empresa quiere asegurarse de que el proceso produce un porcentaje aceptable d
 se toman muestras de cajas de forma aleatoria y se cuentan las cajas defectuosas en cada muestra.
 ---
 
-Es necesario realizar un gráfico de control p (para proporciones de defectos). El cuál no ayudara a identificar variaciones en el proceso de producción,
+Es necesario realizar un gráfico de control p (para proporciones de defectos). El cuál nos ayudara a identificar variaciones en el proceso de producción,
 diferenciando entre variaciones normales (debidas al azar) y variaciones anormales (que pueden indicar problemas en el proceso).
 
 ## Límites de Control
@@ -19,4 +19,5 @@ En el contexto de un gráfico de control p (proporción de defectos), estos lím
 ## Conclusión
 La fracción disconforme de la producción de cajas tiene una variación normal entre las muestras y no sale de los limites inferior ni superior,
 lo que significa que el porcentaje de errores en las cajas de cereal es aceptable.
+
 ![image](https://github.com/user-attachments/assets/00793323-9840-4b51-b164-28bc4d724963)
