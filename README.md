@@ -15,6 +15,7 @@ diferenciando entre variaciones normales (debidas al azar) y variaciones anormal
 ## Límites de Control
 Los límites de control son las fronteras dentro de las cuales se espera que los datos del proceso se comporten si el proceso está bajo control. 
 En el contexto de un gráfico de control p (proporción de defectos), estos límites ayudan a identificar cuándo un proceso se está descontrolando y requiere atención.
+Se calculan en función de los datos históricos y el tamaño de la muestra, y generalmente se establecen en tres desviaciones estándar de la línea central. La línea central es la proporción promedio de defectos en el proceso y representa el rendimiento esperado del proceso en condiciones normales.
 
 ## Conclusión
 La fracción disconforme de la producción de cajas tiene una variación normal entre las muestras y no sale de los limites inferior ni superior,
