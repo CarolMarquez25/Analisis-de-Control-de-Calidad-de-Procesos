@@ -19,4 +19,4 @@ En el contexto de un gráfico de control p (proporción de defectos), estos lím
 ## Conclusión
 La fracción disconforme de la producción de cajas tiene una variación normal entre las muestras y no sale de los limites inferior ni superior,
 lo que significa que el porcentaje de errores en las cajas de cereal es aceptable.
-![image](https://github.com/user-attachments/assets/e3998327-c64d-424c-b52f-7977e77f61b3)
+![image](https://github.com/user-attachments/assets/00793323-9840-4b51-b164-28bc4d724963)
